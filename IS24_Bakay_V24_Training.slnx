@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TrainingModule.Api/TrainingModule.Api.csproj" />
+  <Project Path="TrainingModule.Core/TrainingModule.Core.csproj" />
+  <Project Path="TrainingModule.Data/TrainingModule.Data.csproj" />
+  <Project Path="TrainingModule.Shared/TrainingModule.Shared.csproj" />
+</Solution>

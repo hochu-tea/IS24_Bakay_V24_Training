@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TrainingModule.Core\TrainingModule.Core.csproj" />
+    <ProjectReference Include="..\TrainingModule.Shared\TrainingModule.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
