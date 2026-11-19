@@ -1,0 +1,1 @@
+# IS24_Bakay_V24_Training
