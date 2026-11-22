@@ -41,3 +41,5 @@ public class User
     public virtual ICollection<Enrollment> Enrollments { get; set; } = new List<Enrollment>();
     public virtual ICollection<Employment> Employments { get; set; } = new List<Employment>();
 }
+
+//секреты
